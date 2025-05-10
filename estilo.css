@@ -1,0 +1,24 @@
+.home {
+	background:#6b0092;
+	color: #ffffff;
+}
+
+.caixa {
+	padding: 60px 0;
+	border-bottom: 1px solid #ffffff;
+}
+
+footer p a {
+	margin: 5px 15px;
+}
+
+spam {
+	font-size: large;
+}
+
+.navbar-collapse .navbar-nav .nav-item .nav-link {
+	color:white;
+  }
+  .navbar-collapse .navbar-nav .nav-item .nav-link:hover {
+	color: #FFFF00;
+  }
